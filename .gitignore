@@ -1,0 +1,11 @@
+*.pptx
+*.pdf
+*.docx
+*.zip
+.vscode/
+*.drawio
+*.ini
+0Module Intro/
+1HTML tags/
+Admin
+.vs
